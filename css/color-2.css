@@ -1,0 +1,51 @@
+a:hover {color:#57f479}
+
+.btn {background:#57f479; color:#fff}
+.btn:hover,
+.btn:active {background:rgba(87, 244, 121, 0.8); color:#fff}
+
+nav ul li.active::after {background:#57f479}
+
+.side-contacts-item-value a {border-color:#57f479}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background-color:#57f479}
+
+h1 span {background-image:url(../images/h1-color-2.png)}
+
+.pager a:hover {background-color:#57f479; color:#373737}
+.pager a.active {background:#57f479}
+
+.company-info-value a {border-bottom-color:#57f479}
+.company-header-all a {border-bottom-color:#57f479}
+
+.back-link path {stroke:#57f479}
+.back-link:hover path {stroke:rgba(87, 244, 121, 0.8)}
+
+.detail-video-item path {fill:#57f479}
+.detail-video-item a:hover path {fill:rgba(87, 244, 121, 0.8)}
+.detail-video-item a:active path {fill:rgba(87, 244, 121, 0.8)}
+
+.press-item-date span::before {background:#57f479}
+.press-item-date a {border-bottom-color:#57f479}
+
+.detail-date span::before {background:#57f479}
+.detail-date a {border-bottom-color:#57f479}
+
+.video-item-preview-inner path {fill:#57f479}
+.video-item:hover .video-item-preview-inner path {fill:rgba(87, 244, 121, 0.8)}
+.video-item:active .video-item-preview-inner path {fill:rgba(87, 244, 121, 0.8)}
+
+.video-detail-link path {fill:#57f479}
+.video-detail-link:hover path {fill:rgba(87, 244, 121, 0.8)}
+.video-detail-link:active path {fill:rgba(87, 244, 121, 0.8)}
+
+.window-photo-slider .slick-prev,
+.window-photo-slider .slick-next {background:#57f479}
+.window-photo-slider .slick-prev:hover,
+.window-photo-slider .slick-next:hover {background:rgba(87, 244, 121, 0.8)}
+
+.window-photo-close:hover path {fill:#57f479}
+.window-photo-download:hover path {stroke:#57f479}
+.window-photo-social:hover path {fill:#57f479}
+
+.speakers-item-email a {border-bottom-color:#57f479}

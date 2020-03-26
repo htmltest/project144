@@ -1,0 +1,58 @@
+a:hover {color:#7270ef}
+
+.btn {background:#7270ef; color:#fff}
+.btn:hover,
+.btn:active {background:rgba(114, 112, 239, 0.8); color:#fff}
+
+nav ul li.active::after {background:#7270ef}
+
+.side-contacts-item-value a {border-color:#7270ef}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background-color:#7270ef}
+
+h1 span {background-image:url(../images/h1-color-1.png)}
+
+.pager a:hover {background-color:#7270ef; color:#fff}
+.pager a.active {background:#7270ef; color:#fff}
+
+@media screen and (min-width:1200px) {
+    .pager a.pager-prev:hover {background-image:url(../images/pager-prev-hover.svg)}
+    .pager a.pager-next:hover {background-image:url(../images/pager-next-hover.svg)}
+}
+
+.company-info-value a {border-bottom-color:#7270ef}
+.company-header-all a {border-bottom-color:#7270ef}
+
+.back-link path {stroke:#7270ef}
+.back-link:hover path {stroke:rgba(114, 112, 239, 0.8)}
+
+.detail-video-item path {fill:#7270ef}
+.detail-video-item a:hover path {fill:rgba(114, 112, 239, 0.8)}
+.detail-video-item a:active path {fill:rgba(114, 112, 239, 0.8)}
+
+.press-item-date span::before {background:#7270ef}
+.press-item-date a {border-bottom-color:#7270ef}
+
+.detail-date span::before {background:#7270ef}
+.detail-date a {border-bottom-color:#7270ef}
+
+.video-item-preview-inner path {fill:#7270ef}
+.video-item:hover .video-item-preview-inner path {fill:rgba(114, 112, 239, 0.8)}
+.video-item:active .video-item-preview-inner path {fill:rgba(114, 112, 239, 0.8)}
+
+.video-detail-link path {fill:#7270ef}
+.video-detail-link:hover path {fill:rgba(114, 112, 239, 0.8)}
+.video-detail-link:active path {fill:rgba(114, 112, 239, 0.8)}
+
+.window-photo-slider .slick-prev,
+.window-photo-slider .slick-next {background:#7270ef}
+.window-photo-slider .slick-prev:hover,
+.window-photo-slider .slick-next:hover {background:rgba(114, 112, 239, 0.8)}
+.window-photo-slider .slick-prev svg path,
+.window-photo-slider .slick-next svg path {stroke:#fff}
+
+.window-photo-close:hover path {fill:#7270ef}
+.window-photo-download:hover path {stroke:#7270ef}
+.window-photo-social:hover path {fill:#7270ef}
+
+.speakers-item-email a {border-bottom-color:#7270ef}
